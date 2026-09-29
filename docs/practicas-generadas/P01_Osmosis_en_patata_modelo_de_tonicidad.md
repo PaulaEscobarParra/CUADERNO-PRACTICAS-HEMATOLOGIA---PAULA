@@ -117,11 +117,11 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
+| Autorización o modalidad asignada | Real autorizada |
 | PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
 | Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Medidas de seguridad aplicadas |Uso de bata y guantes, lavarse las manos al comienzo y al final, usar papel de filtro, pelo recogido, manipulación de cuchillo con cuidado, desinfectar zona de trabajo al fnalizar la práctica|
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
