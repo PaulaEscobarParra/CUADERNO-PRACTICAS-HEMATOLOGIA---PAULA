@@ -103,13 +103,13 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Paula Escobar Parra
+- **Fecha real de realización:** 29/09/2026
+- **Grupo:** 2ºLCB
+- **Pareja de trabajo, si procede:** Ariadna Seguro y Miriam García
+- **Rol o tarea principal:** Preparación de medio hipotónico e hipertónico
+- **Modalidad realmente realizada:** Real autorizada
+- **Código o descripción del material/dataset:** Patata de Carrefour
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
