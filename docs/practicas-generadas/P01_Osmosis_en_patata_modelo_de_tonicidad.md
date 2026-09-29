@@ -137,7 +137,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 |---|---|---|---|
 | Identificación y procedencia | Patata de Carrefour | Sí |Carrefour|
 | Material, imagen o datos legibles | [Completa] | Sí |Contamos con el material adecuado para la realización de la práctica|
-| Gestión de residuos generados | Desechamos los residuos propios de laboratorio y los restos de patata al contenedor negro de basura general debido a que no presenta ningún riesgo  | No | Los restos de patatas deben ir a un contenedor marrón específico de residuos orgánicos |
+| Gestión de residuos generados | Desechamos los residuos propios de laboratorio y los restos de patata al contenedor negro de basura general debido a que no presenta ningún riesgo  |Parcial| Los restos de patatas deben ir a un contenedor marrón específico de residuos orgánicos |
 
 ### 9.2 Registro de observaciones o cálculos
 
