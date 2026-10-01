@@ -127,7 +127,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+[Teniendo en cuenta que la ósmosis hace que el agua se desplace de un medio con menor concentración de solutos a un medio con mayor concentración de solutos, se espera observar en el medio hipotónico que la patata aumente su peso debido a que el agua entrará en sus células, por lo contrario, en el medio hipertónico, se espera observar una disminución del peso de la patata debido a que el agua saldrá de sus células.]
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
