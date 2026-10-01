@@ -119,7 +119,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 |---|---|
 | Autorización o modalidad asignada | Real autorizada |
 | PNT, fuente o material docente consultado | https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
+| Equipo/material realmente utilizado | El material que hemos usado para esta práctica es: una patata, un cuchillo, una regla, agua destilada, dos frascos con tapa, un rotulador permanente, unas pinzas, papel de filtro, papel absorbente, sal, vidrio de reloj, un embudo, vaso de precipitado y varilla. El equipo que hemos usado ha sido la báscula. |
 | Medidas de seguridad aplicadas |Uso de bata y guantes, lavarse las manos al comienzo y al final, usar papel de filtro, pelo recogido, manipulación de cuchillo con cuidado, desinfectar zona de trabajo al fnalizar la práctica|
 | Condición de los datos (real/simulada/documental) | Real |
 
