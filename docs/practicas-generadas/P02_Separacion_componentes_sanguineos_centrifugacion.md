@@ -123,20 +123,19 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
+| Autorización de muestra real y código anónimo |Autorizada y código: E001026048678|
+| Procedimiento de centrifugación aplicado |https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1|
 | Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
 | Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
 | RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
-| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Protección, contención y gestión de residuos |Al usar material biológico infeccioso hay que llevar a cabo una gestión de residuos adecuada tanto de la muestra como del material fungible que ha entrado en contacto con la muestras. Se debe autoclavar antes de su desecho al cubo de color negro.|
+| Condición de los datos (real/simulada/documental) | Real |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
-
+Tras llevar a cabo la centrifugación, esperamos observar tres zonas: la primera zona en la parte superior, se encontrará el plasma sanguíneo con un color ambarino compuesto principalmente de agua y unos pocos solutos, en el medio habrá una capa blanquecina que será la capa leucocitaria y por último, el sedimento estará formado de eritrocitos compactados.
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Comprobación de calidad
