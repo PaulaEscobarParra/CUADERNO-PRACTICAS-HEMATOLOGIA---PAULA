@@ -109,13 +109,13 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Paula Escobar Parra
+- **Fecha real de realización:** 06/10/2026
+- **Grupo:** 2ºLCB
+- **Pareja de trabajo, si procede:** Miriam García Fernández
+- **Rol o tarea principal:** Separar el plasma y marcar el tubo
+- **Modalidad realmente realizada:** Real autorizada, con una muestra de sangre del banco de sangre de Mérida
+- **Código o descripción del material/dataset:** Muestra de sangre: E001026048678
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -152,11 +152,11 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
-| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
-| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
+| Código anónimo de muestra | Evidencia | [Sin datos del donante] | [Real autorizada] | [Completa] |
+| Tubo, centrífuga, rotor y adaptador | Evidencia | [Marca/modelo] | [Real / alternativa] | [Completa] |
+| RCF, tiempo, temperatura y freno | Dato | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
+| Aspecto antes y después del giro |Evidencia| [Descripción visual] | [Real / imagen / simulación] | [Completa] |
+| Fases reconocidas y transferencia de plasma | Evidencia | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
 
 ### 9.3 Resultado principal
 
