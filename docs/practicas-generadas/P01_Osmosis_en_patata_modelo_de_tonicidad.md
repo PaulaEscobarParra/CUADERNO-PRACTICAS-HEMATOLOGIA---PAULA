@@ -136,7 +136,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
 | Identificación y procedencia | Patata de Carrefour | Sí |Carrefour|
-| Material, imagen o datos legibles | [Completa] | Sí |Contamos con el material adecuado para la realización de la práctica|
+| Material, imagen o datos legibles || Sí |Contamos con el material adecuado para la realización de la práctica|
 | Gestión de residuos generados | Desechamos los residuos propios de laboratorio y los restos de patata al contenedor negro de basura general debido a que no presenta ningún riesgo  |Parcial| Los restos de patatas deben ir a un contenedor marrón específico de residuos orgánicos |
 
 ### 9.2 Registro de observaciones o cálculos
@@ -238,11 +238,12 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
+La parte que más complicada me pareció es el corte de la patata ya que tiene que tener un grosor y una anchura específica y había que medir con precisión los cortes. Lo realizamos marcando la patata con el permanente y con mucho cuidado para ser lo más exactos posible.
 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
+En el medio hipotónico, la concentración de solutos es menor que en el interior de las células de la patata, por lo que el agua entrará en ellas y provoca un aumento de su tamaño y por tanto de su masa.
+En el medio hipertónico, la concentración de solutos 
 
-   [Respuesta del alumnado]
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
@@ -250,7 +251,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+La prueba de fragilidad osmótica de los hematíes. Esta prueba mide la capacidad de los glóbulos rojos para resistir la lisis cuando se expone a soluciones salinas hipotónicas. El agua entra a la célula por ósmosis para equilibrar las concentraciones. Esto provoca que el hematíe se hinche y si la célula tiene defectos estructurales, se romperán mucho más rápido.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
