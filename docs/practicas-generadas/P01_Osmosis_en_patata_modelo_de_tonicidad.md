@@ -143,9 +143,9 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| Patata en el medio hipotónico |Evidencia| Se observa que el agua ha entrado en las células de la patata por ósmosis, haciendo que aumente su turgencia, de manera que al principio pesaba la patata 18,43 g y al final de la práctica tras esperar 24 horas, pesa |
+| Patata en el medio hipertónico |Evidencia| Se observa que el agua ha salido de las células de la patata hacia el exterior, provocando que pierda turgencia de manera que al principio pesaba la patata 20,51g y al final|
+|Comparación de las dos patatas|Evidencia| Los cambios observados (diferencia de tamaño, masa y textura) se deben al movimiento del agua a través de las membranas celulares |
 
 ### 9.3 Resultado principal
 
