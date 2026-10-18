@@ -218,7 +218,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias |  | |  |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
