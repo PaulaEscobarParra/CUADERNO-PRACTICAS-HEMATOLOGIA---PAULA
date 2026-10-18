@@ -126,8 +126,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
-
-[Teniendo en cuenta que la ósmosis hace que el agua se desplace de un medio con menor concentración de solutos a un medio con mayor concentración de solutos, se espera observar en el medio hipotónico que la patata aumente su peso debido a que el agua entrará en sus células, por lo contrario, en el medio hipertónico, se espera observar una disminución del peso de la patata debido a que el agua saldrá de sus células.]
+Teniendo en cuenta que la ósmosis hace que el agua se desplace de un medio con menor concentración de solutos a un medio con mayor concentración de solutos, se espera observar en el medio hipotónico que la patata aumente su peso debido a que el agua entrará en sus células, por lo contrario, en el medio hipertónico, se espera observar una disminución del peso de la patata debido a que el agua saldrá de sus células.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -143,7 +142,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| Patata en el medio hipotónico |Evidencia| Se observa que el agua ha entrado en las células de la patata por ósmosis, haciendo que aumente su turgencia, de manera que al principio pesaba la patata 18,43 g y al final de la práctica tras esperar 24 horas, pesa |
+| Patata en el medio hipotónico |Evidencia| Se observa que el agua ha entrado en las células de la patata por ósmosis, haciendo que aumente su turgencia, de manera que al principio pesaba la patata 18,43 g y al final de la práctica tras esperar 48 horas, pesa |
 | Patata en el medio hipertónico |Evidencia| Se observa que el agua ha salido de las células de la patata hacia el exterior, provocando que pierda turgencia de manera que al principio pesaba la patata 20,51g y al final|
 |Comparación de las dos patatas|Evidencia| Los cambios observados (diferencia de tamaño, masa y textura) se deben al movimiento del agua a través de las membranas celulares |
 
@@ -218,19 +217,18 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| No se detectaron incidencias |  | |  |
+| Tiempo que lleva la patata en el medio |No hemos podido sacar la patata antes debido a las horas que tenemos de clase| Ninguna | No, porque aún así nos salió el resultado esperado |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
-
+Después de 48 horas, se observaron cambios en la masa de las dos patatas. La patata del medio hipotónico pasó de 18,43g a 18,79g, mientras que la patata del medio hipertónico pasó de 21.51 a 13,88g. En el medio hipotónico hay una variación de masa de 0,36g por lo que aumentó su masa 1.95% y en el hipertónico, es de -6.63g, por lo que perdió un 32.33% de su masa inicial. Estos resultados son compatibles con la ósmosis pero no se puede demostrar que sea la única causa de todos los cambios. No disponemos de información sobre temperatura y otros controles adicionales que pueden intervenir, por lo que no se puede determinar con exactitud cuánto ha contribuido cada factor. La patata es un tejido vegetal que sirve como modelo para comprender este proceso pero al tener pared vegetal su comportamiento no es idéntico al de las células animales por lo que no deben compararse con procesos fisiológicos humanos.
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-En conclusión hemos alcanzado el objetivo de la práctica ya que en el medio hipotónico, la patata ha aumentado el peso y en el medio hipertónico, la patata ha disminuido de peso. Esta conclusión la obtenemos tras pesar antes y después de meter la patata en sus medios correspondientes. La principal limitación fue que la patata la dejamos en el medio unas 72 horas, cuando la práctica indica un máximo de 24 horas.
+En conclusión hemos alcanzado el objetivo de la práctica ya que en el medio hipotónico, la patata ha aumentado el peso y en el medio hipertónico, la patata ha disminuido de peso. Esta conclusión la obtenemos tras pesar antes y después de meter la patata en sus medios correspondientes. La principal limitación fue que la patata la dejamos en el medio unas 48 horas, cuando la práctica indica un máximo de 24 horas.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
