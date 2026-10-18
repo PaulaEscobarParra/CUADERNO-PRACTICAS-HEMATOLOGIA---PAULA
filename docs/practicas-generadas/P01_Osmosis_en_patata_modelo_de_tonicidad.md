@@ -142,15 +142,15 @@ Teniendo en cuenta que la ósmosis hace que el agua se desplace de un medio con 
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| Patata en el medio hipotónico |Evidencia| Se observa que el agua ha entrado en las células de la patata por ósmosis, haciendo que aumente su turgencia, de manera que al principio pesaba la patata 18,43 g y al final de la práctica tras esperar 48 horas, pesa |
-| Patata en el medio hipertónico |Evidencia| Se observa que el agua ha salido de las células de la patata hacia el exterior, provocando que pierda turgencia de manera que al principio pesaba la patata 20,51g y al final|
+| Patata en el medio hipotónico |Evidencia| Se observa que el agua ha entrado en las células de la patata por ósmosis, haciendo que aumente su turgencia, de manera que al principio pesaba la patata 18,43 g y al final de la práctica tras esperar 48 horas, pesa 18.79g|
+| Patata en el medio hipertónico |Evidencia| Se observa que el agua ha salido de las células de la patata hacia el exterior, provocando que pierda turgencia de manera que al principio pesaba la patata 20,51g y al final pesa 13,88g|
 |Comparación de las dos patatas|Evidencia| Los cambios observados (diferencia de tamaño, masa y textura) se deben al movimiento del agua a través de las membranas celulares |
-
+|Cálculo de porcentajes | Dato | Para saber el porcentaje de agua que hemos ganado o perdido tras realizar la práctica restamos a la masa final la masa inicial, el resultado le dividimos entre la masa inicial y por último multiplicamos por 100. En el medio de hipotónico aumentó la masa 1,95% y en el medio hipertónico se perdió 32.33% de la masa inicial|
 ### 9.3 Resultado principal
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+En el medio hipotónico aumentó la masa de la patata debido a que entró el agua desde el exterior al interior de sus células por lo que la masa ha pasado de 18,43g a 18,79g . En el medio hipertónico, disminuyó la masa de la patata de 20,51g a 13,88g debido a que el agua salió del interior de las células al exterior de la patata. Este fenómeno se basa en los principios científicos de la ósmosis. En la observación vemos en la patata del medio hipotónico una patata tupida de agua y rígida mientras que en la del medio hipertónico se observa una patata más pequeña y arrugada además de blanda y ya comprobamos que nuestra observación es real cuando la pesamos.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
