@@ -265,4 +265,4 @@ La prueba de fragilidad osmótica de los hematíes. Esta prueba mide la capacida
 | Interpretación | Los resultados demuestran el principio de la ósmosis, el agua entra en la patata en el medio hipotónico y sale de la patata en el medio hipertónico. La patata es el modelo didáctico de tejido vegetal |
 | Incidencias y acciones | La única incidencia es el tiempo que permanecieron las patatas en sus respectivas disoluciones |
 | Ruta de residuos | Los restos de patatas se desechan en el contenedor de residuos orgánicos y el resto de residuos se eliminan según las normas del centro |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
