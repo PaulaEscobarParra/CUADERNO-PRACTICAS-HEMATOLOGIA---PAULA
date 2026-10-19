@@ -136,8 +136,8 @@ Teniendo en cuenta que la ósmosis hace que el agua se desplace de un medio con 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
 | Identificación y procedencia | Patata de Carrefour | Sí |Carrefour|
-| Material, imagen o datos legibles |La masa inicial de la patata en el medio hipotónico es de 18,43 g y la final es de 18,79g. La masa inicial de la patata en el medio hipertónico es de 20,51 g y la final de 13,88g| Sí |Los datos están registrados de forma clara y permiten calcular y comparar los cambios de masa producidos durante la práctica.|
-| Gestión de residuos generados | Desechamos los residuos propios de laboratorio y los restos de patata al contenedor negro de basura general debido a que no presenta ningún riesgo  |Parcial| Los restos de patatas deben ir a un contenedor marrón específico de residuos orgánicos |
+| Material, imagen o datos legibles |La masa inicial de la patata en el medio hipotónico es de 18,43 g y la final es de 18,79g. La masa inicial de la patata en el medio hipertónico es de 20,51 g y la final de 13,88g| Sí |Los datos que hemos obtenido de la práctica son los correctos y se cumple el principio de ósmosis.|
+| Gestión de residuos generados | Desechamos los residuos propios de laboratorio y los restos de patata al contenedor negro de basura general debido a que no presenta ningún riesgo biológico, químico ni físico |Parcial| Los restos de patatas deben ir a un contenedor marrón específico de residuos orgánicos |
 
 ### 9.2 Registro de observaciones o cálculos
 
