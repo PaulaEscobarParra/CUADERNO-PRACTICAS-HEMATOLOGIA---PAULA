@@ -257,11 +257,11 @@ La prueba de fragilidad osmótica de los hematíes. Esta prueba mide la capacida
 | Fecha | 29/09/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
 | Agrupamiento | Grupo; Ariadna Seguro y Miriam García |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
+| Modalidad y origen de evidencia | Práctica real autorizada. Datos que hemos obtenido a través de la observación y el pesaje de las patatas antes y después de las 48 horas |
+| Materiales, equipo o fuente usados |El material que hemos usado para esta práctica es: una patata, un cuchillo, una regla, agua destilada, dos frascos con tapa, un rotulador permanente, unas pinzas, papel de filtro, papel absorbente, sal, vidrio de reloj, un embudo, vaso de precipitado y varilla. El equipo que hemos usado ha sido la báscula.|
+| Controles | Se registran las masas iniciales y finales y se revisan los materiales y las medidas de seguridad |
+| Resultado | La patata del medio hipotónico aumentó 1,95% y la del medio hipertónico perdió 32,33% de su masa|
+| Interpretación | Los resultados demuestran el principio de la ósmosis, el agua entra en la patata en el medio hipotónico y sale de la patata en el medio hipertónico. La patata es el modelo didáctico de tejido vegetal |
+| Incidencias y acciones | La única incidencia es el tiempo que permanecieron las patatas en sus respectivas disoluciones |
+| Ruta de residuos | Los restos de patatas se desechan en el contenedor de residuos orgánicos y el resto de residuos se eliminan según las normas del centro |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
