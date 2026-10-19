@@ -194,7 +194,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Archivo previsto:** `../assets/P01/P01_04_retirada_pesada_final.jpg`
 - **Texto alternativo:** Porciones retiradas tras 24 horas, secadas superficialmente y pesadas por condición.
 - **Pie de foto:** Tras 24 h, los grupos se retiran por separado, se secan con el mismo criterio y se registra la masa final de cada condición.
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Porciones retiradas tras 24 horas, secadas superficialmente y pesadas por condición.](../assets/P01/P01_04_retirada_pesada_final.jpg)
 
