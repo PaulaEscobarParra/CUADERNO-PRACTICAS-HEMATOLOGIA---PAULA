@@ -240,12 +240,15 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 La parte que más complicada me pareció es el corte de la patata ya que tiene que tener un grosor y una anchura específica y había que medir con precisión los cortes. Lo realizamos marcando la patata con el permanente y con mucho cuidado para ser lo más exactos posible.
 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
+
 En el medio hipotónico, la concentración de solutos es menor que en el interior de las células de la patata, por lo que el agua entrará en ellas y provoca un aumento de su tamaño y por tanto de su masa.
 En el medio hipertónico, la concentración de solutos es mayor que en el interior de las células de la patata, por lo que el agua tiende a salir de ellas y provoca la disminución de su tamaño y por tanto de su masa
 
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
+
 En el medio hipotónico, el agua entra en las células de la patata, aumentando su turgencia y haciendo que esté más firme y pueda aumentar su masa. En el medio hipertónico, el agua sale de las células de la patata, provocando que pierdan su turgencia, se vuelvan más blandas y puedan disminuir su masa. Por tanto, los cambios observados en las patatas permiten comprobar cómo la concentración del medio influye en el movimiento del agua a través de las membranas celulares.
+
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
 La prueba de fragilidad osmótica de los hematíes. Esta prueba mide la capacidad de los glóbulos rojos para resistir la lisis cuando se expone a soluciones salinas hipotónicas. El agua entra a la célula por ósmosis para equilibrar las concentraciones. Esto provoca que el hematíe se hinche y si la célula tiene defectos estructurales, se romperán mucho más rápido.
