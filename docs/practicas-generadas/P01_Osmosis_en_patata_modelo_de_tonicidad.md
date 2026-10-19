@@ -254,9 +254,9 @@ La prueba de fragilidad osmótica de los hematíes. Esta prueba mide la capacida
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 29/09/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Grupo; Ariadna Seguro y Miriam García |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume o enlaza al apartado 9.1] |
