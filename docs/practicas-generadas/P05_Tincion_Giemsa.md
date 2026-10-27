@@ -123,14 +123,14 @@ La obtención de sangre y la preparación de la extensión se documentan en [P03
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
+- **Nombre y apellidos:** Paula Escobar Parra
+- **Fecha real de realización:** 27/10/2026
+- **Grupo:** Grupo 3
+- **Pareja de trabajo, si procede:** 
 - **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada sobre el frotis de P03 / demostración / simulada / documental; describe]
-- **Origen de la sangre:** [Muestra EDTA residual cedida para docencia por el Banco de Sangre de Extremadura/SES / sangre capilar propia recogida en P03]
-- **Anticoagulante:** [EDTA / heparina / No consta]
+- **Modalidad realmente realizada:** Real autorizada sobre el frotis de P03
+- **Origen de la sangre:** Sangre capilar propia recogida en P03
+- **Anticoagulante:** Heparina
 - **Código no identificativo del frotis P03:** [Completa]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
