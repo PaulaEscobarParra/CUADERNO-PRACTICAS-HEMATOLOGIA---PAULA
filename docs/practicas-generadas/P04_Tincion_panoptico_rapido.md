@@ -268,7 +268,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Elementos formes demasiado teñidos |Se debe a que he mantenido más de 1 segundo el portaobjetos dentro de los colorantes| Para la próxima tinción que hagamos, se deberá controlar más el tiempo de tinción | Sí, porque las células se ven demasiado teñidas |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
