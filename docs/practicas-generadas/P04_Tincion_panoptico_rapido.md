@@ -288,19 +288,19 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** Considerando que la técnica exige sumergir el portaobjetos 5 veces durante 1 segundo en cada uno de los tres reactivos, ¿qué consecuencias visuales tendría prolongar o reducir significativamente estos tiempos de inmersión?
 
-   [Respuesta del alumnado]
+Si se prolonga el tiempo de inmersión en los reactivos, las células pueden quedar demasiado teñidas y se verían de colores muy intensos debido al exceso de colorante y puede ser difícil distinguir las diferentes estructuras. Si se reduce el tiempo de inmersión la tinción sería insuficiente y las células quedarían poco teñidas, lo que dificulta la identificación de las estructuras de igual manera que en el caso anterior. Por ello, es importante respetar los tiempos establecidos para conseguir una tinción adecuada.
 
 **2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosáceo las estructuras básicas y el Panóptico n.º 3 tiñe de azulado las estructuras ácidas, ¿qué orgánulos o tipos celulares concretos presentes en la sangre se deberían ver con cada color?
 
-   [Respuesta del alumnado]
+La eosina tiñe de tonos rosados las estructuras básicas como la hemoglobina de los eritrocitos y los gránulos de los eosinófilos mientras que el azul de metileno tiñe de tonos azules o violáceos las estructuras ácidas como los leucocitos por la presencia de ácidos nucleicos. También permite observar el citoplasma de los linfocitos, granulocitos como basófilos y neutrófilos y monocitos.
 
 **3. Conclusiones:** Imagina que concluyes que el resultado anómalo se debió a que la sangre era antigua. ¿Qué pruebas o evidencias visuales de tu observación microscópica te permitieron descartar que el error estuviera en una mala ejecución de la extensión sanguínea inicial?
 
-   [Respuesta del alumnado]
+Se comprobaría que la extensión presenta un grosor adecuado y que presenta las tres partes diferenciadas de un frotis sanguíneo para que se pueda observar de manera adecuada. Además tendríamos que comprobar que los bordes sean regulares y que no existan estrías. Si el resultado anómalo no se debe a ninguna de estas características, concluiríamos que el error se debe a la antigüedad de la sangre.
 
 **4. Aprendizaje y transferencia:** ¿Qué paso específico del proceso manual (la realización del frotis inicial, tinción, observación) crees que debes seguir perfeccionando para asegurar el éxito en futuras extensiones sanguíneas?
 
-   [Respuesta del alumnado]
+La tinción, ya que he teñido demasiado tiempo la muestra y presentan los elementos formes, una coloración muy intensa que se debe corregir en posteriores prácticas
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
