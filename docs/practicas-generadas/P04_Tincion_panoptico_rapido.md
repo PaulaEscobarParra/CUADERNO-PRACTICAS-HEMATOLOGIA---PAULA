@@ -309,9 +309,9 @@ La tinción, ya que he teñido demasiado tiempo la muestra y presentan los eleme
 | Agrupamiento | Individual |
 | Modalidad y origen de evidencia | Real autorizada, procedente de sangre propia|
 | Materiales, equipo o fuente usados | Instrumental:	Portaobjetos con frotis P03, cuatro recipientes compatibles de boca ancha (anaclín) y frasco lavador. Equipos:	Microscopio óptico. Reactivos/materiales:	Kit panóptico rápido; metanol, eosina y azul de metileno, por último agua destilada, guantes y bata como EPI y de materiales hemos usado pipeta Pasteur, papel de filtro y papel absorbente. |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Controles | Se comprobó la identificación e integridad del portaobjetos y se siguió el procedimiento de tinción establecido, respetando el orden de las soluciones colorantes. Como evidencia, se realizó la observación al microscopio de la preparación.|
 | Resultado | [Ir al punto 9.1: Registro de observaciones y cálculos](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Ir al punto 12:Interpretación técnica](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones | [Ir al punto 11: Incidencias, errores, y medidas correctoras](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos | Material desechable contaminado con sangre: contenedor de residuos biológicos. Portaobjetos: contenedor de residuos punzocortantes. Papel de filtro y papel absorbente sin restos de reactivos: residuos asimilables a urbanos. Restos de metanol y soluciones colorantes: contenedor específico para residuos químicos peligrosos. Nunca deben verterse al desagüe. |
+| Estado de entrega |Entregado|
