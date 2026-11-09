@@ -307,14 +307,14 @@ La tinción, ya que he teñido demasiado tiempo la muestra y presentan los eleme
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P04` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 20/10/2026|
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Individual |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
+| Resultado | [Ir al punto 9.1: Registro de observaciones y cálculos](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
+| Interpretación | [Ir al punto 12:Interpretación técnica](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
+| Incidencias y acciones | [Ir al punto 11: Incidencias, errores, y medidas correctoras](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos | [Completa o «No aplica»] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
