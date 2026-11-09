@@ -108,13 +108,13 @@ Consulta de las referencias enlazadas: **12/10/2026**. No se ha identificado un 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada — excedente EDTA / real autorizada — sangre capilar propia / demostración / simulada / documental; describe]
-- **Origen y código docente de la muestra:** [Laboratorio/banco de sangre o propia; código no identificativo, sin datos clínicos]
+- **Nombre y apellidos:** Paula Escobar Parra
+- **Fecha real de realización:** 15/10/2026
+- **Grupo:** Grupo 3
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal:** Extensión sanguínea completa
+- **Modalidad realmente realizada:** Real autorizada — sangre capilar propia
+- **Origen y código docente de la muestra:** Laboratorio de origen propio; código: PEP G3 15-10-2026
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
