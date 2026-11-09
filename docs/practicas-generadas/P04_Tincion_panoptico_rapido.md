@@ -135,9 +135,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No aplica, salvo cálculo expresamente solicitado por el docente] |
-| Configuración de equipos (si procede) | [Identifica microscopio y objetivo empleados; anota solo la configuración realmente usada y el uso de aceite si procede] |
-| Características del producto o resultado final | [Describe zona de lectura, contraste, fondo, precipitados, artefactos y conservación celular; indica código P03, origen/anticoagulante, modalidad, control disponible e incidencias. No interpretes como diagnóstico.] |
+| Cálculos (si procede) | No aplica, no se realizaron cálculos durante esta práctica |
+| Configuración de equipos (si procede) |Se utilizó un microscopio óptico para observar la extensión sanguínea. El objetivo usado es de 40x y no se aplicó aceite de inmersión|
+| Características del producto o resultado final |Se observó un frotis sanguíneo procedente de la práctica P03, a partir de una muestra de sangre con anticoagulante heparina. Tras realizar la tinción, los elementos presentaban una coloración demasiado intensa y dificultó la diferenciación de algunas estructuras celulares. La preparación se observó mediante microscopía óptica.|
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
