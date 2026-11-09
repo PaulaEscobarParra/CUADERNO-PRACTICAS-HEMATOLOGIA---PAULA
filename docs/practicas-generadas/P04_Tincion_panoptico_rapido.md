@@ -168,7 +168,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_03_inmersion_colorante.jpg`
 - **Texto alternativo:** Portaobjetos con el frotis sumergido en una de las soluciones panópticas.
-- **Pie de foto:** [Indica en cuál de las tres soluciones se realiza la inmersión y el origen de la imagen.]
+- **Pie de foto:** Imagen de origen propio, en la que se observa inmersión del portaobjetos en azul de metileno.
 - **Imagen del alumnado:** 
 
 ![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/P04/P04_03_inmersion_colorante.jpg)
@@ -179,7 +179,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_04_extension_tenida.jpg`
 - **Texto alternativo:** Extensión sanguínea tras completar la tinción panóptico rápido y el secado.
-- **Pie de foto:** [Describe el aspecto general y la modalidad/origen de la imagen, sin atribuir hallazgos no observados.]
+- **Pie de foto:** Imagen propia en la que se observa cabeza, cuerpo y cola de la extensión sanguínea.
 - **Imagen del alumnado:** 
 
 ![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../assets/P04/P04_04_extension_tenida.jpg)
@@ -190,7 +190,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_05_eritrocito.jpg`
 - **Texto alternativo:** Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Indica si la microfotografía procede de la preparación propia o de material docente autorizado; añade aumento o escala solo si se conocen.]
+- **Pie de foto:**  Eritrocito procedente de sangre propio; aumento de 40x
 - **Imagen del alumnado:** 
 
 ![Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_05_eritrocito.jpg)
@@ -201,7 +201,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_06_neutrofilo.jpg`
 - **Texto alternativo:** Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
+- **Pie de foto:** Neutrófilo multilobulado; aumento de 40x
 - **Imagen del alumnado:** 
 
 ![Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_06_neutrofilo.jpg)
@@ -212,7 +212,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_07_basofilo.jpg`
 - **Texto alternativo:** Basófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
+- **Pie de foto:** Basófilo; aumento 40x
 - **Imagen del alumnado:** 
 ![Basófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_07_basofilo.jpg)
 
@@ -233,7 +233,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_09_monocito.jpg`
 - **Texto alternativo:** Monocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
+- **Pie de foto:** Monocito; aumento 40x
 - **Imagen del alumnado:** 
 ![Monocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_09_monocito.jpg)
 
@@ -243,7 +243,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_10_linfocito.jpg`
 - **Texto alternativo:** Linfocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
+- **Pie de foto:** Linfocito; aumento 40x
 - **Imagen del alumnado:** 
 
 ![Linfocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_10_linfocito.jpg)
@@ -254,7 +254,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_11_plaqueta.jpg`
 - **Texto alternativo:** Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
+- **Pie de foto:** Plaquetas teñidas con panóptico rápido; aumento de 40x
 - **Imagen del alumnado:** 
 
 ![Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_11_plaqueta.jpg)
@@ -307,7 +307,7 @@ La tinción, ya que he teñido demasiado tiempo la muestra y presentan los eleme
 | Fecha | 20/10/2026|
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
 | Agrupamiento | Individual |
-| Modalidad y origen de evidencia | [Completa] |
+| Modalidad y origen de evidencia | Real autorizada, procedente de sangre propia|
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Ir al punto 9.1: Registro de observaciones y cálculos](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
