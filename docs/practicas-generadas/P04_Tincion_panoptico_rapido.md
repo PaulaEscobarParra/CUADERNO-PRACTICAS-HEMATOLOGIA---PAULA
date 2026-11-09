@@ -308,7 +308,7 @@ La tinción, ya que he teñido demasiado tiempo la muestra y presentan los eleme
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
 | Agrupamiento | Individual |
 | Modalidad y origen de evidencia | Real autorizada, procedente de sangre propia|
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
+| Materiales, equipo o fuente usados | Instrumental:	Portaobjetos con frotis P03, cuatro recipientes compatibles de boca ancha (anaclín) y frasco lavador. Equipos:	Microscopio óptico. Reactivos/materiales:	Kit panóptico rápido; metanol, eosina y azul de metileno, por último agua destilada, guantes y bata como EPI y de materiales hemos usado pipeta Pasteur, papel de filtro y papel absorbente. |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Ir al punto 9.1: Registro de observaciones y cálculos](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Ir al punto 12:Interpretación técnica](https://github.com/PaulaEscobarParra/CUADERNO-PRACTICAS-HEMATOLOGIA---PAULA/blob/main/docs/practicas-generadas/P04_Tincion_panoptico_rapido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
