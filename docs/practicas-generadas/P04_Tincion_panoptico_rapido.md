@@ -147,9 +147,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_01_materiales.jpg`
 - **Texto alternativo:** Materiales y equipos preparados para la tinción panóptico rápido.
-- **Pie de foto:** [Identifica el kit, los recipientes, el microscopio y el origen de la imagen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
+- **Pie de foto:** Material para realizar la práctica: kit de metanol, eosina y azul de metileno, además de agua destilada, extensiones obtenidas en la P03, papel absorbente, caja para guardar los portaobjetos teñidos y papel de filtro.
+- **Imagen del alumnado:** 
 ![Materiales y equipos preparados para la tinción panóptico rápido.](../assets/P04/P04_01_materiales.jpg)
 
 *Figura 1. Materiales y equipos previstos para la práctica; indica qué se utilizó realmente.*
@@ -158,8 +157,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_02_extension_previa.jpg`
 - **Texto alternativo:** Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.
-- **Pie de foto:** [Indica el código no identificativo del frotis, su origen y si la imagen es propia o docente.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Imagen propia, portaobjetos obtenido en la P03 con código de identificación: PEP G3 15-10-26
+- **Imagen del alumnado:**
 
 ![Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.](../assets/P04/P04_02_extension_previa.jpg)
 
@@ -170,7 +169,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_03_inmersion_colorante.jpg`
 - **Texto alternativo:** Portaobjetos con el frotis sumergido en una de las soluciones panópticas.
 - **Pie de foto:** [Indica en cuál de las tres soluciones se realiza la inmersión y el origen de la imagen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/P04/P04_03_inmersion_colorante.jpg)
 
@@ -181,7 +180,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_04_extension_tenida.jpg`
 - **Texto alternativo:** Extensión sanguínea tras completar la tinción panóptico rápido y el secado.
 - **Pie de foto:** [Describe el aspecto general y la modalidad/origen de la imagen, sin atribuir hallazgos no observados.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../assets/P04/P04_04_extension_tenida.jpg)
 
@@ -192,7 +191,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_05_eritrocito.jpg`
 - **Texto alternativo:** Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Indica si la microfotografía procede de la preparación propia o de material docente autorizado; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_05_eritrocito.jpg)
 
@@ -203,7 +202,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_06_neutrofilo.jpg`
 - **Texto alternativo:** Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_06_neutrofilo.jpg)
 
@@ -214,8 +213,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_07_basofilo.jpg`
 - **Texto alternativo:** Basófilo observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
+- **Imagen del alumnado:** 
 ![Basófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_07_basofilo.jpg)
 
 *Figura 7. Basófilo en la extensión observada; identifica el origen de la microfotografía.*
@@ -224,8 +222,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_08_eosinofilo.jpg`
 - **Texto alternativo:** Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** No se han encontrado.
+- **Imagen del alumnado:** No he encontrado eosinófilos en la extensión sanguínea, ya que son células muy escasa y difíciles de encontrar.
 
 ![Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_08_eosinofilo.jpg)
 
@@ -236,8 +234,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_09_monocito.jpg`
 - **Texto alternativo:** Monocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
+- **Imagen del alumnado:** 
 ![Monocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_09_monocito.jpg)
 
 *Figura 9. Monocito en la extensión observada; identifica el origen de la microfotografía.*
@@ -247,7 +244,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_10_linfocito.jpg`
 - **Texto alternativo:** Linfocito observado en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Linfocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_10_linfocito.jpg)
 
@@ -258,7 +255,7 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 - **Archivo previsto:** `../assets/P04/P04_11_plaqueta.jpg`
 - **Texto alternativo:** Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.
 - **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_11_plaqueta.jpg)
 
