@@ -274,13 +274,13 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 Reconocer la secuencia funcional de fijación/tinción y evaluar una preparación por contraste, precipitados, artefactos y zona de lectura. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+La tinción panóptico rápido se realizó: fijando con metanol, tiñendo con eosina y después con azul de metileno y al final lo aclaramos con agua destilada. Al observar la preparación al microscopio, se comprobó que los elementos formes de la sangre presentaban una coloración intensa. Esto se debe al exceso de tiempo de inmersión en los colorantes, que dificultó la diferenciación de algunas estructuras celulares. La eosina permite teñir de tonos rosas estructuras como la hemoglobina de los eritrocitos, mientras que el azul de metileno tiñe de tonos azuladas o violáceas los núcleos y otras estructuras celulares. Como hipótesis, se considera que respetar los tiempos de inmersión indicados habría permitido obtener un contraste adecuado.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento aplicado a tu frotis de P03 permitió alcanzar el objetivo de obtener una tinción valorable? Justifica tu valoración a partir del resultado observado y señala la limitación que más condicionó la conclusión.
 
-[Escribe aquí tu conclusión.]
+El procedimiento nos permitió realizar la tinción y observar los elementos formes de la sangre al microscopio, por lo que se alcanzó el objetivo de la práctica, aunque el resultado no ha sido el mejor ya que las células tenían un color demasiado intenso debido a que se prolongó el tiempo de inmersión en los colorantes. 
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
