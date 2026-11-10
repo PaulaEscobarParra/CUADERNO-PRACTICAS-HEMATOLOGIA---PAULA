@@ -96,12 +96,12 @@ La práctica se realiza bajo supervisión docente, siguiendo el protocolo aproba
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
+- **Nombre y apellidos:** Paula Escobar Parra
+- **Fecha real de realización:** 10/11/26
+- **Grupo:** G3
+- **Pareja de trabajo, si procede:** Grupo: Miriam García, Ariadna Seguro y Paula Escobar
 - **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Modalidad realmente realizada:** Real autorizada 
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
