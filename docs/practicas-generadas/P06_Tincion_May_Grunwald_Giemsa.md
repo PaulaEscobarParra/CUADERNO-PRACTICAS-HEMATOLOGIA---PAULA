@@ -100,10 +100,9 @@ La práctica se realiza bajo supervisión docente, siguiendo el protocolo aproba
 - **Fecha real de realización:** 10/11/26
 - **Grupo:** G3
 - **Pareja de trabajo, si procede:** Grupo: Miriam García, Ariadna Seguro y Paula Escobar
-- **Rol o tarea principal:** [Describe tu participación]
+- **Rol o tarea principal:** Preparación de la dilución de Giemsa
 - **Modalidad realmente realizada:** Real autorizada 
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
-
+- **Código o descripción del material/dataset:** PEP G3 10-11-26
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 8.1 Verificación previa
@@ -112,9 +111,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | El instrumental usado es: gradilla, tubo de ensayo, puntas de pipeta, cristalizador, puente, portaobjetos, vaso de precipitado, hematocrito y recipiente para deshechar las puntas de pipeta. |
+| Equipos | Micropipeta y microscopio óptico |
+| Reactivos/materiales | Como reactivos hemos usado: May Grunwald y Giemsa además de alcohol y agua destilada. Los materiales aplicados en esta prácticas son: papel de filtro, papel absorbente, lancetas y pipeta pasteur.  |
 
 | Residuo previsto | Tipo |
 |---|---|
