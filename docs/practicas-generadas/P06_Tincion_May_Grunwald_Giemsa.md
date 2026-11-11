@@ -113,15 +113,17 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Instrumental | El instrumental usado es: gradilla, tubo de ensayo, puntas de pipeta, cristalizador, puente, portaobjetos, vaso de precipitados, tubo capilar y recipiente para deshechar las puntas de pipeta. |
 | Equipos | Micropipeta y microscopio óptico |
-| Reactivos/materiales | Como reactivos hemos usado: May Grunwald y Giemsa además de alcohol y agua destilada. Los materiales aplicados en esta prácticas son: papel de filtro, papel absorbente, lancetas y pipeta pasteur.  |
+| Reactivos/materiales | Como reactivos hemos usado: May Grunwald y Giemsa además de alcohol y agua destilada. Los materiales aplicados en esta prácticas son: papel de filtro, papel absorbente, lancetas y pipeta Pasteur.  |
 
 | Residuo previsto | Tipo |
 |---|---|
-| Lanceta | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
-|Tubo capilar||
-|Papel de filtro||
-|Papel absorbente||
-|||
+| Lanceta | Punzocortantes |
+|Tubo capilar| Punzocortantes|
+|Papel de filtro |Biológico|
+|Papel absorbente |Biológico|
+|Pipeta Pasteur |Residuos químicos|
+|Punta de micropipeta | Residuos químicos |
+|Papeles y materiales no contaminados |Asimilable a los residuos urbanos|
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Registro de observaciones y cálculos
