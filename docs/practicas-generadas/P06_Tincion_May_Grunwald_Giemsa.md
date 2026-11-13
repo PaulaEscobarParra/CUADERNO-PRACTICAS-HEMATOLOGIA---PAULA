@@ -292,7 +292,7 @@ A partir de la preparación observada, indica qué células o estructuras celula
 
 Concluye qué ventajas e inconvenientes observas en la tinción de May-Grünwald-Giemsa con respecto a la tinción de Giemsa. Basa la comparación en la preparación realizada, el contraste y la diferenciación de los elementos formes, la secuencia de trabajo y cualquier limitación o incidencia observada. Distingue tus observaciones de la información teórica.
 
-[Escribe aquí tu conclusión comparativa.]
+La tinción de May-Grünwald-Giemsa permite observar las células sanguíneas con gran calidad gracias a la combinación de los dos colorantes. Un inconveniente es que necesita más pasos y tiempo que la tinción de Giemsa. En la práctica, hemos realizado la tinción y la observación de los elementos formes, aunque el resultado dependerá de hacer correctamente la extensión y respetar los tiempos de la tinción. Esta técnica permite diferenciar las células de manera más adecuada
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
