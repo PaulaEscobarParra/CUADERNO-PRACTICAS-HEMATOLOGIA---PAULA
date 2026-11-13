@@ -132,9 +132,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) |  Los cálculos necesarios en esta práctica se realizan para llevar a cabo la solución de Giemsa, en proporción 1/10 con agua destilada y Giemsa puro. Como se necesitan 2 ml de solución por cada extensión, y cada una va a realizar 2 tinciones, utilizaremos 8 ml de solución de Giemsa. Así, mezclamos 0,8 ml de Giemsa puro y 7,2 ml de agua destilada. |
+| Configuración de equipos (si procede) | El equipo necesario que se utiliza es la micropipeta de 100 a 1000 μm. Hay que calibrar el volumen que se depositará. |
+| Características del producto o resultado final | Al observar al microscopio el frotis seco y teñido se distinguen los tipos celulares sanguíneos, distinguiendo el fondo, los núcleos, citoplasmas y gránulos. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
