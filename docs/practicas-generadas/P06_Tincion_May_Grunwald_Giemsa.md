@@ -300,19 +300,19 @@ Responde individualmente y relaciona cada respuesta con observaciones, resultado
 
 **1. Procedimiento. Control del tiempo de fijación y tinción:** ¿Cómo afectó el tiempo exacto de exposición al colorante May-Grünwald (fijación con metanol) a la adherencia de la muestra o al contraste final?
 
-   [Respuesta del alumnado]
+El tiempo de exposición al colorante May-Grünwald influye en la correcta fijación de la muestra y en la intensidad de la tinción. Que el tiempo de tinción sea adecuado permite que las células se adhieran al portaobjetos y que se diferencien todas sus estructuras de manera adecuada, obteniendo buen contraste.
 
 **2. Interpretación. Identificación de agregados plaquetarios vs. inclusiones:** Si detectas acumulaciones violáceas de pequeño tamaño, ¿qué características morfológicas o metodológicas te permiten diferenciar si se trata de agrupaciones plaquetarias reales o de un precipitado de azures de metileno?
 
-   [Respuesta del alumnado]
+ Los agregados plaquetarios presentan agrupaciones de pequeñas estructuras violáceas con aspecto granular y suelen encontrarse juntos. En cambio, los precipitados de azul de metileno aparecen como partículas irregulares, dispersas y sin una organización.
 
 **3. Conclusiones. Nitidez de estructuras citoplasmáticas y nucleares:** ¿En qué elementos formes específicos o estructuras celulares se aprecia con mayor claridad la ventaja del efecto Romanowsky de la tinción combinada?
 
-   [Respuesta del alumnado]
+El efecto Romanowsky permite diferenciar mejor los núcleos, que adquieren tonos violetas o púrpuras, y el citoplasma, que presenta diferentes tonos azules o rosas. Esto facilita la identificación de las distintas células sanguíneas y sus características morfológicas.
 
 **4. Aprendizaje y transferencia. Bioseguridad y gestión de residuos químicos:** ¿Qué hábito o medida de seguridad de la manipulación de metanol y colorantes es más eficaz para reducir riesgos ambientales y laborales?
 
-   [Respuesta del alumnado]
+Las medidas mas adecuadas son: utilizar guantes, bata y gafas de protección durante la mtinción. Además, se deben mantener los recipientes cerrados, y depositar los residuos químicos en contenedores específicos, nunca por el desagüe.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
