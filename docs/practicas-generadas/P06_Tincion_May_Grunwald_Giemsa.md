@@ -276,7 +276,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No aplica | No aplica | No, el proceso transcurrió con normalidad y se obtuvo una preparación adecuada |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
